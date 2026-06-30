@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.1
+
+### Patch Changes
+
+- f9a6164: Extract `car-cli` into its own standalone repository (`vorionsys/car-cli`) with tokenless OIDC trusted publishing + provenance. Depends on `@vorionsys/car-client@^1.0.0` (resolved from npm). Relicensed Apache-2.0.
+
 All notable changes to `@vorionsys/car-cli` will be documented in this file.
 
 This project adheres to [Semantic Versioning](https://semver.org/).
